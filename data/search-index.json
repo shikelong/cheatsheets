@@ -2519,6 +2519,17 @@
   "tags": null,
   "updated": "2020-05-08"
 },{
+  "id": "pnpm",
+  "title": "Pnpm",
+  "url": "/pnpm",
+  "category": "JavaScript libraries",
+  "keywords": null,
+  "content_html": "<h3 id=\"npmyarn-equivalents\">npm/yarn equivalents</h3>\n\n<table class=\"-left-align -headers\">\n  <thead>\n    <tr>\n      <th>npm</th>\n      <th>yarn</th>\n      <th>pnpm</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><code>npm init</code></td>\n      <td><code>yarn init</code></td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td><code>npm install</code></td>\n      <td><code>yarn</code></td>\n      <td><code>pnpm install</code></td>\n    </tr>\n    <tr>\n      <td><code>npm install gulp --save</code></td>\n      <td><code>yarn add gulp</code></td>\n      <td><code>pnpm add gulp</code></td>\n    </tr>\n    <tr>\n      <td><code>npm install gulp --save-dev --save-exact</code></td>\n      <td><code>yarn add gulp --dev --exact</code></td>\n      <td><code>pnpm add gulp -D --save-exact</code></td>\n    </tr>\n    <tr>\n      <td><code>npm install -g gulp</code></td>\n      <td><code>yarn global add gulp</code></td>\n      <td><code>pnpm add gulp --global</code></td>\n    </tr>\n    <tr>\n      <td><code>npm update</code></td>\n      <td><code>yarn upgrade</code></td>\n      <td><code>pnpm update</code></td>\n    </tr>\n  </tbody>\n</table>",
+  "intro_html": "",
+  "description_html": "",
+  "tags": ["Featurable"],
+  "updated": "2022-01-20"
+},{
   "id": "polyfill.io",
   "title": "Polyfill.io",
   "url": "/polyfill.io",
